@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/rar/Documents/08_websites/cupathology",
+	"sourceRoot": "/Users/richardrevia/Desktop/cupathology",
 	"sources": [
 		"node_modules/@thulite/core/assets/scss/app.scss",
 		"node_modules/bootstrap/scss/_functions.scss",
