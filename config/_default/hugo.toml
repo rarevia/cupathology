@@ -1,5 +1,5 @@
 title = "CU Pathology"
-baseurl = "http://rarevia.github.io/cupathology"
+baseurl = "https://rarevia.github.io/cupathology/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
