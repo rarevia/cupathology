@@ -1,5 +1,0 @@
-baseURL = 'https://rarevia.github.io/cupathology/'
-languageCode = 'en-us'
-title = 'CU Pathology'
-
-theme = 'doks'

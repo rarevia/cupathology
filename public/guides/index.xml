@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guides on CU Pathology</title>
+    <link>http://localhost:1313/guides/</link>
+    <description>Recent content in Guides on CU Pathology</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2024 Richard Revia</copyright>
+    <lastBuildDate>Sat, 28 Dec 2024 11:27:05 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/guides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rotation Guides</title>
+      <link>http://localhost:1313/guides/main_page/</link>
+      <pubDate>Sat, 28 Dec 2024 11:27:05 -0700</pubDate>
+      <guid>http://localhost:1313/guides/main_page/</guid>
+      <description>&lt;p&gt;This is a repository of tips and tricks written and used by the pathology residents at the University of Coloardo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

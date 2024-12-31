@@ -1,0 +1,30 @@
+// Put your custom SCSS code here
+.color_pill {
+  display: inline-block;
+  padding: 0.1em 0.1em;
+  font-size: 0.875em;
+  font-weight: 100;
+  border-radius: 7px;
+  text-align: center; /* Centers the text */
+  white-space: normal; /* Allows text to wrap */
+  word-wrap: break-word; /* Ensures long words break properly */
+  overflow-wrap: break-word; /* Ensures better word breaking in modern browsers */
+}
+
+.if_pill {
+  display: inline;
+  padding: 0.1em 0.1em;
+  font-size: 0.875em;
+  font-weight: 100;
+  border-radius: 7px;
+  text-align: center; /* Centers the text */
+  white-space: normal; /* Allows text to wrap */
+  word-wrap: break-word; /* Ensures long words break properly */
+  overflow-wrap: break-word; /* Ensures better word breaking in modern browsers */
+}
+
+.image-txt-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
