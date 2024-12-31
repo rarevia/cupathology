@@ -24,7 +24,7 @@ Keep in mind each breast specimen is unique and deviation from the template can 
   - {{< color_pill color="Green" textcolor="#fff" >}}Medial{{< /color_pill >}}-to-{{< color_pill color="MediumBlue" textcolor="#fff" >}}lateral{{< /color_pill >}}
   - {{< color_pill color="DarkOrange" textcolor="#fff" >}}Anterior{{< /color_pill >}}-to-{{< color_pill color="Black" textcolor="#fff" >}}posterior{{< /color_pill >}}
 
-- Ink the specimen according to the protocol ([see Sample dictaiton for the inking conventions](#dictation)). Any deviations from the standard inking convention must be noted on the requisition sheet.
+- Ink the specimen according to the protocol ([see Sample dictation for the inking conventions](#dictation)). Any deviations from the standard inking convention must be noted on the requisition sheet.
 - Serially section the specimen perpendicular to the superior-inferior axis into thin slices (approximately 1 cm or less) trying to get teh posterior surface in each slice. Cut the slices deep enough to be able to view the whole slice. If skin is present along the anterior surface, it will help hold the specimen together.
 - When the entire specimen is sectioned, collect a sample for the tissue bank (if this was consented for); othewise, put the specimen into formalin.
 - If a clip or savi scout is dislodged, secure a safety pin in the slice/location for reference.
@@ -67,7 +67,7 @@ Required Sections:
 -	Muscle if present
 
 ### Dictation template {#dictation}
-Received fresh in a container labeled “\[Patient’s name/MRN\]” and designated “\[\_\_\_\]” is a \[\_\_\_\] gram, \[name of specimen/procedure\] specimen, \[\_\_\_x\_\_\_\] cm superior to inferior, \[\_\_\_x\_\_\_\] cm medial to lateral, \[\_\_\_x\_\_\_\] cm anterior to posterior. Partially surfacing the anterior aspect is a skin ellipse \[\_\_\_x\_\_\_\] cm with an \[everted/inverted\] nipple. \[There is an attached axillary dissection \_\_\_x\_\_\_x\_\_\_ cm.\] There is a \[\_\_\_\] suture designating \[superior\] and \[\_\_\_\] suture designating \[lateral\] as per the requisition. The specimen is sliced from \[\_\_\_\] to \[\_\_\_\] into \[\_\_\_] slices.
+Received fresh in a container labeled “\[Patient’s name/MRN\]” and designated “\[\_\_\_\]” is a \[\_\_\_\] gram, \[name of specimen/procedure\] specimen, \[\_\_\_\] cm superior to inferior, \[\_\_\_\] cm medial to lateral, \[\_\_\_\] cm anterior to posterior. Partially surfacing the anterior aspect is a skin ellipse \[\_\_\_x\_\_\_\] cm with an \[everted/inverted\] nipple. \[There is an attached axillary dissection \_\_\_x\_\_\_x\_\_\_ cm.\] There is a \[\_\_\_\] suture designating \[superior\] and \[\_\_\_\] suture designating \[lateral\] as per the requisition. The specimen is sliced from \[\_\_\_\] to \[\_\_\_\] into \[\_\_\_] slices.
 
 In slice(s) \[\_\_\_\] there is a \[describe lesion\], \[\_\_\_x\_\_\_x\_\_\_\] cm, at \[\_\_\_\] o’clock, in the \[\_\_\_\] quadrant, \[\_\_\_\] cm from the nipple, and \[\_\_\_\] cm from the \[anterior\] margin and \[\_\_\_\] cm from the deep margin. \[Include measurements to any other pertinent margin (medial/lateral/skin)\]. There is a \[\_\_\_\] clip identified within the lesion.
 
@@ -88,6 +88,9 @@ Representative sections are submitted as follows:
 ([A17]) [Slice #, lower outer quadrant, 2 pieces]</br>
 ([A18]) [Slice #, lower inner quadrant, 2 pieces]</br>
 ([A19]) [Slice #, upper inner quadrant, 2 pieces]
+
+Date and time in formalin: ##/##/#### ##:##
+Date and time out of formalin: ##/##/#### ##:##
 
 ### Processing
 - Place cassettes in the rack along with other non-breast cassettes Monday through Friday **unless** if the breast tissue was removed from the patient on Thursday afternoon (see below).

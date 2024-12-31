@@ -42,7 +42,7 @@ All breast specimens are received fresh for triaging; then, formalin is added to
 - Any lumpectomy that can be submitted entirely in 15 cassettes or fewer should be submitted entirely.
 
 ### Sample dictation {#dictation}
-Received fresh in a container labeled "\[Patient's name/MRN\]" and designated "\[\_\_\_\]" is a \[\_\_\_\] gram, \[lumpectomy/excisional biopsy\] specimen, \[\_\_\_x\_\_\_\] cm superior to inferior, \[\_\_\_x\_\_\_\] cm medial to lateral, \[\_\_\_x\_\_\_\] cm anterior to posterior. {{< if_pill >}}(*If present*: Patially surfacing the anterior aspect is a skin ellipse, \_\_\_x\_\_\_ cm){{< /if_pill >}}. There is a \[\_\_\_\] suture designating \[superior\] and \[\_\_\_\] suture designating \[lateral\] as per the requisition. The specimen is sliced from \[\_\_\_\] to \[\_\_\_\] into \[\_\_\_\] slices.
+Received fresh in a container labeled "\[Patient's name/MRN\]" and designated "\[\_\_\_\]" is a \[\_\_\_\] gram, \[lumpectomy/excisional biopsy\] specimen, \[\_\_\_\] cm superior to inferior, \[\_\_\_\] cm medial to lateral, \[\_\_\_\] cm anterior to posterior. {{< if_pill >}}(*If present*: Patially surfacing the anterior aspect is a skin ellipse, \_\_\_x\_\_\_ cm){{< /if_pill >}}. There is a \[\_\_\_\] suture designating \[superior\] and \[\_\_\_\] suture designating \[lateral\] as per the requisition. The specimen is sliced from \[\_\_\_\] to \[\_\_\_\] into \[\_\_\_\] slices.
 
 In slice(s) \[\_\_\_\] there is a \[describe lesion\], \[\_\_\_x\_\_\_x\_\_\_\] cm. The lesion is \[\_\_\_\] cm from the superior maring, \[\_\_\_\] cm from the inferior margin, \[\_\_\_\] from the anterior margin, \[\_\_\_\] from the posterior/deep maring, \[\_\_\_\] cm from the medial margin and \[\_\_\_\] cm from the lateral maring. There is a \[shape\] clip identified in slice \[\_\_\_\] and a \[savi scout in slice \_\_\_\].
 
@@ -58,6 +58,9 @@ The specimen is submitted \[entirely\] from \[\_\_\_\] to \[\_\_\_\] as follows:
 ([A7]) [slice 6, closest medial margin] </br>
 ([A8]) [slice 7] </br>
 ([A9]) [slice 8, inferior end, perpendicularly sectioned]
+
+Date and time in formalin: ##/##/#### ##:##
+Date and time out of formalin: ##/##/#### ##:##
 
 ### Processing
 - Place cassettes in the rack along with other non-breast cassettes Monday through Friday **unless** if the breast tissue was removed from the patient on Thursday afternoon (see below).
