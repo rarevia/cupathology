@@ -62,6 +62,8 @@ The specimen is submitted \[entirely\] from \[\_\_\_\] to \[\_\_\_\] as follows:
 Date and time in formalin: ##/##/#### ##:##
 Date and time out of formalin: ##/##/#### ##:##
 
+{{< callout note >}} The **time in foramlin** and the **time out of formalin** can be found in CoPath. From the *Histology Data Entry/Edit* menu, the in formalin and out formalin date and times are displayed within the *Materials Matching* screen. From the *Pathologist Console* menu, the in formalin and out formalin date and times are displayed within the *Source/Staff* screen. {{< /callout >}}
+
 ### Processing
 - Place cassettes in the rack along with other non-breast cassettes Monday through Friday **unless** if the breast tissue was removed from the patient on Thursday afternoon (see below).
 - If the breast tissue was removed from the patient on Thursday afternoon (and is grossed on Friday), then the container the specimen is in will have a biohazard sticker on it (this sticker is our way of designating that this specimen should follow this "Thursday breast protocol")
