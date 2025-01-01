@@ -59,7 +59,7 @@ The specimen is submitted \[entirely\] from \[\_\_\_\] to \[\_\_\_\] as follows:
 ([A8]) [slice 7] </br>
 ([A9]) [slice 8, inferior end, perpendicularly sectioned]
 
-Date and time in formalin: ##/##/#### ##:##
+Date and time in formalin: ##/##/#### ##:##</br>
 Date and time out of formalin: ##/##/#### ##:##
 
 {{< callout note >}} The **time in foramlin** and the **time out of formalin** can be found in CoPath. From the *Histology Data Entry/Edit* menu, the in formalin and out formalin date and times are displayed within the *Materials Matching* screen. From the *Pathologist Console* menu, the in formalin and out formalin date and times are displayed within the *Source/Staff* screen. {{< /callout >}}

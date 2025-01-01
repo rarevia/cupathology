@@ -89,7 +89,7 @@ Representative sections are submitted as follows:
 ([A18]) [Slice #, lower inner quadrant, 2 pieces]</br>
 ([A19]) [Slice #, upper inner quadrant, 2 pieces]
 
-Date and time in formalin: ##/##/#### ##:##
+Date and time in formalin: ##/##/#### ##:##</br>
 Date and time out of formalin: ##/##/#### ##:##
 
 {{< callout note >}} The **time in foramlin** and the **time out of formalin** can be found in CoPath. From the *Histology Data Entry/Edit* menu, the in formalin and out formalin date and times are displayed within the *Materials Matching* screen. From the *Pathologist Console* menu, the in formalin and out formalin date and times are displayed within the *Source/Staff* screen. {{< /callout >}}
