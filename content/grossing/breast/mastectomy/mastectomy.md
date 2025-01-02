@@ -67,7 +67,7 @@ Required Sections:
 -	Muscle if present
 
 ### Dictation template {#dictation}
-Received fresh in a container labeled “\[Patient’s name/MRN\]” and designated “\[\_\_\_\]” is a \[\_\_\_\] gram, \[name of specimen/procedure\] specimen, \[\_\_\_\] cm superior to inferior, \[\_\_\_\] cm medial to lateral, \[\_\_\_\] cm anterior to posterior. Partially surfacing the anterior aspect is a skin ellipse \[\_\_\_x\_\_\_\] cm with an \[everted/inverted\] nipple. \[There is an attached axillary dissection \_\_\_x\_\_\_x\_\_\_ cm.\] There is a \[\_\_\_\] suture designating \[superior\] and \[\_\_\_\] suture designating \[lateral\] as per the requisition. The specimen is sliced from \[\_\_\_\] to \[\_\_\_\] into \[\_\_\_] slices.
+Deceived fresh in a container labeled “\[Patient’s name/MRN\]” and designated “\[\_\_\_\]” is a \[\_\_\_\] gram, \[name of specimen/procedure\] specimen, \[\_\_\_\] cm superior to inferior, \[\_\_\_\] cm medial to lateral, \[\_\_\_\] cm anterior to posterior. Partially surfacing the anterior aspect is a skin ellipse \[\_\_\_x\_\_\_\] cm with an \[everted/inverted\] nipple. \[There is an attached axillary dissection \_\_\_x\_\_\_x\_\_\_ cm.\] There is a \[\_\_\_\] suture designating \[superior\] and \[\_\_\_\] suture designating \[lateral\] as per the requisition. The specimen is sliced from \[\_\_\_\] to \[\_\_\_\] into \[\_\_\_] slices.
 
 In slice(s) \[\_\_\_\] there is a \[describe lesion\], \[\_\_\_x\_\_\_x\_\_\_\] cm, at \[\_\_\_\] o’clock, in the \[\_\_\_\] quadrant, \[\_\_\_\] cm from the nipple, and \[\_\_\_\] cm from the \[anterior\] margin and \[\_\_\_\] cm from the deep margin. \[Include measurements to any other pertinent margin (medial/lateral/skin)\]. There is a \[\_\_\_\] clip identified within the lesion.
 

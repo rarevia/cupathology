@@ -2,71 +2,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/grossing/gyn1/</loc>
+      <loc>https://rarevia.github.io/cupathology/grossing/gyn1/</loc>
       <lastmod>2024-12-28T11:21:49-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/grossing/breast/</loc>
+      <loc>https://rarevia.github.io/cupathology/grossing/breast/</loc>
       <lastmod>2024-12-28T11:21:49-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/grossing/main_page/</loc>
+      <loc>https://rarevia.github.io/cupathology/grossing/g1/</loc>
+      <lastmod>2024-12-28T11:21:49-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>https://rarevia.github.io/cupathology/grossing/main_page/</loc>
       <lastmod>2024-12-28T11:26:48-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
-    
     <url>
-      <loc>http://localhost:1313/grossing/lorem/</loc>
-      <lastmod>2024-12-28T11:21:49-07:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>http://localhost:1313/grossing/gyn1/hysterectomy/</loc>
+        <loc>https://rarevia.github.io/cupathology/grossing/gyn1/hysterectomy/</loc>
         <lastmod>2024-12-28T11:21:49-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/grossing/gyn1/pelvic_exenteration/pelvic_exent/</loc>
+        <loc>https://rarevia.github.io/cupathology/grossing/gyn1/pelvic_exenteration/pelvic_exent/</loc>
         <lastmod>2024-12-28T12:32:35-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/grossing/breast/mastectomy/mastectomy/</loc>
+        <loc>https://rarevia.github.io/cupathology/grossing/breast/mastectomy/mastectomy/</loc>
         <lastmod>2024-12-28T12:32:52-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/grossing/breast/sentinel/</loc>
+        <loc>https://rarevia.github.io/cupathology/grossing/breast/sentinel/</loc>
         <lastmod>2024-12-28T11:21:49-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/grossing/breast/lumpectomy/lumpectomy/</loc>
+        <loc>https://rarevia.github.io/cupathology/grossing/breast/lumpectomy/lumpectomy/</loc>
         <lastmod>2024-12-28T12:32:44-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/grossing/breast/mammoplasty/mammoplasty/</loc>
+        <loc>https://rarevia.github.io/cupathology/grossing/breast/mammoplasty/mammoplasty/</loc>
         <lastmod>2024-12-28T12:32:35-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/grossing/lorem/ipsum/</loc>
-        <lastmod>2024-12-28T11:21:49-07:00</lastmod>
+        <loc>https://rarevia.github.io/cupathology/grossing/g1/biopsies/</loc>
+        <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://rarevia.github.io/cupathology/grossing/g1/emr/</loc>
+        <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://rarevia.github.io/cupathology/grossing/g1/esophagus/</loc>
+        <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://rarevia.github.io/cupathology/grossing/g1/gallbladder/</loc>
+        <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://rarevia.github.io/cupathology/grossing/g1/intestine/</loc>
+        <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://rarevia.github.io/cupathology/grossing/g1/stomach/</loc>
+        <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://rarevia.github.io/cupathology/grossing/g1/appendix/</loc>
+        <lastmod>2025-01-01T00:00:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>

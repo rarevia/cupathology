@@ -2,14 +2,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/grossing/breast/sentinel/sentinel_frozens/</loc>
+      <loc>https://rarevia.github.io/cupathology/grossing/breast/sentinel/sentinel_frozens/</loc>
       <lastmod>2024-12-28T12:32:04-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/grossing/breast/sentinel/sentinel/</loc>
+      <loc>https://rarevia.github.io/cupathology/grossing/breast/sentinel/sentinel/</loc>
       <lastmod>2024-12-28T12:32:22-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>

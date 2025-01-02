@@ -2,21 +2,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/grossing/gyn1/hysterectomy/hyst_cervical_cancer/</loc>
+      <loc>https://rarevia.github.io/cupathology/grossing/gyn1/hysterectomy/hyst_cervical_cancer/</loc>
       <lastmod>2024-12-28T12:32:44-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/grossing/gyn1/hysterectomy/hyst_endometrial_hyperplasia/</loc>
+      <loc>https://rarevia.github.io/cupathology/grossing/gyn1/hysterectomy/hyst_endometrial_hyperplasia/</loc>
       <lastmod>2024-12-28T12:32:44-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/grossing/gyn1/hysterectomy/hyst_benign/</loc>
+      <loc>https://rarevia.github.io/cupathology/grossing/gyn1/hysterectomy/hyst_benign/</loc>
       <lastmod>2024-12-28T12:32:44-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>

@@ -2,40 +2,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/grossing/breast/mastectomy/mastectomy/</loc>
+      <loc>https://rarevia.github.io/cupathology/grossing/breast/mastectomy/mastectomy/</loc>
       <lastmod>2024-12-28T12:32:52-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/grossing/breast/sentinel/</loc>
+      <loc>https://rarevia.github.io/cupathology/grossing/breast/sentinel/</loc>
       <lastmod>2024-12-28T11:21:49-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/grossing/breast/lumpectomy/lumpectomy/</loc>
+      <loc>https://rarevia.github.io/cupathology/grossing/breast/lumpectomy/lumpectomy/</loc>
       <lastmod>2024-12-28T12:32:44-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/grossing/breast/mammoplasty/mammoplasty/</loc>
+      <loc>https://rarevia.github.io/cupathology/grossing/breast/mammoplasty/mammoplasty/</loc>
       <lastmod>2024-12-28T12:32:35-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://localhost:1313/grossing/breast/sentinel/sentinel_frozens/</loc>
+        <loc>https://rarevia.github.io/cupathology/grossing/breast/sentinel/sentinel_frozens/</loc>
         <lastmod>2024-12-28T12:32:04-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/grossing/breast/sentinel/sentinel/</loc>
+        <loc>https://rarevia.github.io/cupathology/grossing/breast/sentinel/sentinel/</loc>
         <lastmod>2024-12-28T12:32:22-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>

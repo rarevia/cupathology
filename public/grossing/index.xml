@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grossing on CU Pathology</title>
-    <link>http://localhost:1313/grossing/</link>
+    <link>https://rarevia.github.io/cupathology/grossing/</link>
     <description>Recent content in Grossing on CU Pathology</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sat, 28 Dec 2024 11:26:48 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/grossing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rarevia.github.io/cupathology/grossing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CU Pathology Grossing Manual</title>
-      <link>http://localhost:1313/grossing/main_page/</link>
+      <link>https://rarevia.github.io/cupathology/grossing/main_page/</link>
       <pubDate>Sat, 28 Dec 2024 11:26:48 -0700</pubDate>
-      <guid>http://localhost:1313/grossing/main_page/</guid>
+      <guid>https://rarevia.github.io/cupathology/grossing/main_page/</guid>
       <description>This is the surgical pathology grossing manual developed at the University of Colorado Pathology Department.</description>
     </item>
   </channel>

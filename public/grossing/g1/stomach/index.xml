@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stomach on CU Pathology</title>
+    <link>https://rarevia.github.io/cupathology/grossing/g1/stomach/</link>
+    <description>Recent content in Stomach on CU Pathology</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2024 Richard Revia</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rarevia.github.io/cupathology/grossing/g1/stomach/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gastrectomy (genetic mutation)</title>
+      <link>https://rarevia.github.io/cupathology/grossing/g1/stomach/genetic_mutation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rarevia.github.io/cupathology/grossing/g1/stomach/genetic_mutation/</guid>
+      <description>&lt;h2 id=&#34;example-headers&#34;&gt;Example Headers:&lt;/h2&gt;&#xA;&lt;p&gt;Stomach, gastrectomy&lt;/p&gt;&#xA;&lt;h2 id=&#34;triage-needed&#34;&gt;Triage Needed:&lt;/h2&gt;&#xA;&lt;p&gt;Measurements, ink any serosal puckering, and open along the greater curvature unless lesion in the way (probe with finger prior to cutting). Pin the lesion area on corkboard. Often these are fixed overnight.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gastrectomy (tumor [partial or total])</title>
+      <link>https://rarevia.github.io/cupathology/grossing/g1/stomach/tumor/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rarevia.github.io/cupathology/grossing/g1/stomach/tumor/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;CAP synoptic?&lt;/strong&gt; Yes&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Example Headers:&lt;/strong&gt;&#xA;Stomach, gastrectomy&lt;/p&gt;&#xA;&lt;h2 id=&#34;triage-needed&#34;&gt;Triage Needed:&lt;/h2&gt;&#xA;&lt;p&gt;Measurements, ink any serosal puckering, and open along the greater curvature unless lesion in the way (probe with finger prior to cutting). Pin the lesion area on corkboard. Often these are fixed overnight.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Partial resection (obesity)</title>
+      <link>https://rarevia.github.io/cupathology/grossing/g1/stomach/partial_resection/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rarevia.github.io/cupathology/grossing/g1/stomach/partial_resection/</guid>
+      <description>&lt;h2 id=&#34;example-header&#34;&gt;Example Header:&lt;/h2&gt;&#xA;&lt;p&gt;Stomach, sleeve gastrectomy:&lt;/p&gt;&#xA;&lt;h2 id=&#34;triage-needed&#34;&gt;Triage Needed:&lt;/h2&gt;&#xA;&lt;p&gt;None, this specimen does not need to be fixed overnight&lt;/p&gt;&#xA;&lt;h2 id=&#34;procedure&#34;&gt;Procedure:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;State the condition of the stomach segment and its overall size in three dimensions.&lt;/li&gt;&#xA;&lt;li&gt;These specimens are usually unoriented, with staples across the resection margin and stripped omentum. State this and if they appear different than the norm.&lt;/li&gt;&#xA;&lt;li&gt;Describe the appearance of the serosal surface noting any irregularities or discolorations.&lt;/li&gt;&#xA;&lt;li&gt;Open along the specimen length and describe the contents and once completed, rinse the mucosa gently and describe the mucosal surface.&lt;/li&gt;&#xA;&lt;li&gt;Note the pliability of the wall and average thickness throughout. The wall pliability can be best assessed with physical manipulation throughout the specimen.&lt;/li&gt;&#xA;&lt;li&gt;Representative sections (usually 2) should include any areas of discoloration or wall thickness differences. If everything is consistent, sample one section from one end and the second section from the other side&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;&#xA;&lt;p&gt;This procedure is to reduce the volume of the stomach to help patients lose weight. They are low suspicion for dysplasia and neoplasm but cannot be excluded especially those with ill-defined wall thickening and not necessarily any mucosal findings. Sampling of all areas that appear different is important and may be beneficial in treating the patient for H. pylori positivity. A long-standing H. pylori infection is an important risk factor for gastric carcinoma.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wedge resection (GIST)</title>
+      <link>https://rarevia.github.io/cupathology/grossing/g1/stomach/wedge_resection/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rarevia.github.io/cupathology/grossing/g1/stomach/wedge_resection/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;CAP synoptic?&lt;/strong&gt; GIST for stomach&lt;/p&gt;&#xA;&lt;h2 id=&#34;example-header&#34;&gt;Example Header:&lt;/h2&gt;&#xA;&lt;p&gt;Stomach, partial gastrectomy&lt;/p&gt;&#xA;&lt;h2 id=&#34;triage-needed&#34;&gt;Triage Needed:&lt;/h2&gt;&#xA;&lt;p&gt;None, this specimen may need to be fixed overnight (but not always)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
