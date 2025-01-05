@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gallbladder on CU Pathology</title>
-    <link>https://rarevia.github.io/cupathology/grossing/g1/gallbladder/</link>
+    <link>http://localhost:1313/grossing/g1/gallbladder/</link>
     <description>Recent content in Gallbladder on CU Pathology</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sat, 28 Dec 2024 12:32:44 -0700</lastBuildDate>
-    <atom:link href="https://rarevia.github.io/cupathology/grossing/g1/gallbladder/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/grossing/g1/gallbladder/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cholecystectomy (benign disease)</title>
-      <link>https://rarevia.github.io/cupathology/grossing/g1/gallbladder/gallbladder_benign/</link>
+      <link>http://localhost:1313/grossing/g1/gallbladder/gallbladder_benign/</link>
       <pubDate>Sat, 28 Dec 2024 12:32:44 -0700</pubDate>
-      <guid>https://rarevia.github.io/cupathology/grossing/g1/gallbladder/gallbladder_benign/</guid>
+      <guid>http://localhost:1313/grossing/g1/gallbladder/gallbladder_benign/</guid>
       <description>&lt;h2 id=&#34;example-header&#34;&gt;Example Header:&lt;/h2&gt;&#xA;&lt;p&gt;Gallbladder, cholecystectomy&lt;/p&gt;&#xA;&lt;h2 id=&#34;triage-needed&#34;&gt;Triage Needed:&lt;/h2&gt;&#xA;&lt;p&gt;None, if fresh (and no ancillary testing requested) can be put in formalin.&lt;/p&gt;&#xA;&lt;h2 id=&#34;procedure&#34;&gt;Procedure:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Asses if the specimen is intact or disrupted. If disrupted is this due to surgical manipulation in the operating room or is it because it was perforated or ruptured prior to surgery? This is a distinction that should be noted.&lt;/li&gt;&#xA;&lt;li&gt;The serosa should be smooth and glistening and may have subserosal fat deposition. The adventitial surface should be rough/cauterized but homogeneous in appearance. If there are surgical disruptions, they would be most likely in this area when separating the gallbladder from the liver.&lt;/li&gt;&#xA;&lt;li&gt;Note if there is a lymph node adjacent to the cystic duct, and whether the cystic duct is open, closed by a clip, obstructed by a calculus/tumor. The cystic duct margin should be inked after the staples/clip is removed. This can be amputated and submitted en face in the cassette.&lt;/li&gt;&#xA;&lt;li&gt;Open parallel to the long axis and note the contents of the gallbladder both the liquid and if there are calculi. The liquid may be clear, green, yellow, red, and tenacious, gelatinous, viscous, water-like, and blood. It is important to note the color, consistency, and rough number (one-ten, or multiple, or numerous, innumerable) of calculi and their +/- presence obstructing the cystic duct. The color and appearance of the calculi can help identify what they are made of.&lt;/li&gt;&#xA;&lt;li&gt;Gently remove the contents of the gallbladder to examine the mucosal surface. Is the mucosal surface intact? What color? Does it have yellow stippling or a polyp? If it appears green, it is bile stained and not a green velvety surface. Note disruptions in your gross. While most are removed for benign disease; always look for unsuspected neoplastic disease.&lt;/li&gt;&#xA;&lt;li&gt;Is the wall uniformly &amp;lt;0.4cm? Sample an area of the fundus and one of the body. Each strip can be approximately 1 x 0.3 cm.  If no, or just an area is &amp;gt;0.4 cm, sample the wall more extensively and add additional cassettes to accommodate the additional sampling.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;&#xA;&lt;p&gt;The most common reasons to receive gallbladders in the gross room are inflammation, bile stasis, obstruction, or may be incidental in the case of complex resections. Neoplasia is not commonly associated with these, but it cannot be overlooked or excluded. See if you can identify a Phrygian cap variant, gallbladder adenomyosis and Rokitansky–Aschoff sinuses (often filled with bile in a thickened wall), or others. While these are not always associated with an underlying pathology, they show your attention to detail and not just following a routine or checklist.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cholecystectomy (tumor/polyp)</title>
-      <link>https://rarevia.github.io/cupathology/grossing/g1/gallbladder/gallbladder_tumor/</link>
+      <link>http://localhost:1313/grossing/g1/gallbladder/gallbladder_tumor/</link>
       <pubDate>Sat, 28 Dec 2024 12:32:44 -0700</pubDate>
-      <guid>https://rarevia.github.io/cupathology/grossing/g1/gallbladder/gallbladder_tumor/</guid>
+      <guid>http://localhost:1313/grossing/g1/gallbladder/gallbladder_tumor/</guid>
       <description>&lt;p&gt;&lt;strong&gt;CAP synoptic?&lt;/strong&gt; Gallbladder&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Example Header:&lt;/strong&gt; Gallbladder, cholecystectomy&lt;/p&gt;&#xA;&lt;h2 id=&#34;triage-needed&#34;&gt;Triage Needed:&lt;/h2&gt;&#xA;&lt;p&gt;None, if fresh (and no ancillary testing requested) can be put in formalin.&lt;/p&gt;</description>
     </item>
   </channel>

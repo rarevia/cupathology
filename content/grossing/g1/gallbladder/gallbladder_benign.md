@@ -36,4 +36,8 @@ The most common reasons to receive gallbladders in the gross room are inflammati
 **Dragon Template:** “GB”
 
 ## Dictation Example: 
+##### Header
+Gallbladder, cholecystectomy
+
+##### Gross description
 Received in a formalin container labeled "[patient's name/MRN/site]" is an [intact/disrupted] saccular gallbladder, [# x # x #] cm with a [pink-purple, smooth, and glistening] serosal surface. The cystic duct margin is inked [black] and there is [no/an] apparent cystic lymph node. The gallbladder contains [green tenacious] bile and is [acalculous] [with/without] obstruction of the cystic duct.  Cut surfaces demonstrate a [bile stained and velvety] mucosa and the wall averages [#] cm in thickness.  [No polyps or masses are identified]. Representative sections including the cystic duct margin, fundus, and body are submitted in ([A1]).

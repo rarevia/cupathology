@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sentinel lymph node on CU Pathology</title>
-    <link>https://rarevia.github.io/cupathology/grossing/breast/sentinel/</link>
+    <link>http://localhost:1313/grossing/breast/sentinel/</link>
     <description>Recent content in Sentinel lymph node on CU Pathology</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sat, 28 Dec 2024 12:32:22 -0700</lastBuildDate>
-    <atom:link href="https://rarevia.github.io/cupathology/grossing/breast/sentinel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/grossing/breast/sentinel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Frozen Worksheet</title>
-      <link>https://rarevia.github.io/cupathology/grossing/breast/sentinel/sentinel_frozens/</link>
+      <link>http://localhost:1313/grossing/breast/sentinel/sentinel_frozens/</link>
       <pubDate>Sat, 28 Dec 2024 12:32:04 -0700</pubDate>
-      <guid>https://rarevia.github.io/cupathology/grossing/breast/sentinel/sentinel_frozens/</guid>
+      <guid>http://localhost:1313/grossing/breast/sentinel/sentinel_frozens/</guid>
       <description>&lt;h2 id=&#34;breast-sentinel-lymph-node-frozen-worksheet&#34;&gt;Breast Sentinel Lymph Node Frozen Worksheet&lt;/h2&gt;&#xA;&lt;h3 id=&#34;at-the-time-of-the-frozen-section&#34;&gt;At the time of the frozen section:&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Gross measurement: ___ x ___ x ___ cm&lt;/li&gt;&#xA;&lt;li&gt;Remove all fat from individual lymph nodes&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Number of lymph nodes: ___&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Serially section each lymph node at 2 mm intervals along the long axis&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Embed all sections serially with non-adjacent cut surfaces face down&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;or&lt;/strong&gt; embed only grossly positive sections&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Sentinel</title>
-      <link>https://rarevia.github.io/cupathology/grossing/breast/sentinel/sentinel/</link>
+      <link>http://localhost:1313/grossing/breast/sentinel/sentinel/</link>
       <pubDate>Sat, 28 Dec 2024 12:32:22 -0700</pubDate>
-      <guid>https://rarevia.github.io/cupathology/grossing/breast/sentinel/sentinel/</guid>
+      <guid>http://localhost:1313/grossing/breast/sentinel/sentinel/</guid>
       <description>&lt;p&gt;Non-frozen sentinel breast lymph node&lt;/p&gt;</description>
     </item>
   </channel>

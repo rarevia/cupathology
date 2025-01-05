@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cervix on CU Pathology</title>
+    <link>http://localhost:1313/grossing/gyn2/cervix/</link>
+    <description>Recent content in Cervix on CU Pathology</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2024 Richard Revia</copyright>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/grossing/gyn2/cervix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LEEP or Cone</title>
+      <link>http://localhost:1313/grossing/gyn2/cervix/leep_cone/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/grossing/gyn2/cervix/leep_cone/</guid>
+      <description>&lt;h3 id=&#34;gross-description&#34;&gt;Gross Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Orient the specimen if an orienting stitch is provided (usually designated “stitch at 12:00”) and measure in three dimensions. If no orienting stitch is present, you do NOT need to arbitrarily designate anything as 12:00.&lt;/li&gt;&#xA;&lt;li&gt;Ink the rim of the endocervical margin blue and the remaining margin (deep/stromal, and ectocervical) black&lt;/li&gt;&#xA;&lt;li&gt;When possible, note the size in each dimension; the presence/diameter of an os&lt;/li&gt;&#xA;&lt;li&gt;Note the presence of absence of a mass or lesion&lt;/li&gt;&#xA;&lt;li&gt;If a mass or lesion is present, note the size and distance to margins&lt;/li&gt;&#xA;&lt;li&gt;Make radial (like a pizza) serial sections at 2-3 mm intervals&lt;/li&gt;&#xA;&lt;li&gt;Note that these specimens range from well-oriented cervical cones with an identifiable os, ectocervix, and endocervical canal; to a LEEP fragment of tissue with no orientation and no identifiable landmarks. Please tailor the gross description accordingly. If there is an ectocervix/os, provide the diameter(s).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;sections-for-histology&#34;&gt;Sections for histology:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Submit the entire specimen sequentially into cassettes (no more than 3 per cassette) with the 4 quadrants designated separately&lt;/li&gt;&#xA;&lt;li&gt;If a “top hat” (additional endocervix in a separate part) is present submit it separately. Check if the clinician has oriented the top hat, by designating the (true) margin, and if so, preserve the orientation through inking and gross description. If the clinician has not made any designation, no inking is required. Note, for the majority of top hat specimens, clinician input is required for orientation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;sample-dictaiton-cervical-cone&#34;&gt;Sample dictaiton: &amp;ldquo;Cervical Cone&amp;rdquo;&lt;/h3&gt;&#xA;&lt;p&gt;Received in formalin container labeled “[patient&amp;rsquo;s name/ medical record number/&amp;quot;___&amp;quot;]” is a[n] [un]oriented fragment of tissue measuring [___x___x___] cm [___ cm ectocervix diameter; cervical wall thickness of ___; ___cm from ecto cervix into endocervical canal] with a stitch designating [12 o&amp;rsquo;clock]. [The cervical os measures ___ cm in diameter.] The overlying epithelium is [smooth and glistening without grossly visible lesions]. The endocervical margin is inked [blue] and the remaining margin inked [black]. [No masses or lesions are identified. / A mass measures ___ cm and is ___cm from the deep margin; ___ cm from the ectocervical mucosal margin; and ___ cm from the endocervical mucosal margin.] The specimen is divided into quadrants, serially sectioned and submitted entirely in cassettes as follows:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

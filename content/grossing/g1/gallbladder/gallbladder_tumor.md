@@ -40,7 +40,11 @@ Carcinoma of the gallbladder is staged by depth of invasion and then into adjace
 
 **Dragon Template:** “GB tumor”
 
-## Dictation Example: 
+## Dictation Example:
+##### Header
+Gallbladder, cholecystectomy
+
+##### Gross description
 Received in a formalin container labeled "[patient's name/MRN/site]" is an [intact/disrupted] saccular gallbladder, [# x # x #] cm. The serosal surface is [pink-purple, smooth, and glistening]. The cystic duct margin is inked [black], adventitial surface is inked [blue], and there is [no] appreciated cystic lymph node. The gallbladder contains [green tenacious] bile and has [multiple, yellow, bossellated calculi up to 0.8 cm in greatest dimension] [with/without] occlusion of the cystic duct. 
 
 Cut surfaces demonstrate a [bile stained and velvety] mucosa with [a single, yellow, polyp], [# x # x #] cm that is [#] cm from the cystic duct margin. There [is/is not] associated induration of the mucosal wall spanning an area of [# x #] cm and is [at the adventitial surface and abuts the blue inked margin]. No additional lesions have been identified. A gross photograph of the mucosal surface and the lesion are taken. 

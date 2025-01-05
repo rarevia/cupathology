@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ovaries and Fallopian Tubes on CU Pathology</title>
+    <link>http://localhost:1313/grossing/gyn2/ovary_fallopian/</link>
+    <description>Recent content in Ovaries and Fallopian Tubes on CU Pathology</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2024 Richard Revia</copyright>
+    <lastBuildDate>Sat, 28 Dec 2024 12:32:44 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/grossing/gyn2/ovary_fallopian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No Mass</title>
+      <link>http://localhost:1313/grossing/gyn2/ovary_fallopian/no_mass/</link>
+      <pubDate>Sat, 28 Dec 2024 12:32:44 -0700</pubDate>
+      <guid>http://localhost:1313/grossing/gyn2/ovary_fallopian/no_mass/</guid>
+      <description>&lt;h2 id=&#34;ovaries-and-fallopian-tubes-without-masses&#34;&gt;Ovaries and Fallopian Tubes Without Masses&lt;/h2&gt;&#xA;&lt;p&gt;Ovaries and fallopian tubes may be submitted for the following reasons:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;As a risk reduction measure because the patient has a germline genetic mutation associated with an increased risk for cancer:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Formal SEE-FIM protocol required:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;BRCA1&lt;/li&gt;&#xA;&lt;li&gt;BRCA2&lt;/li&gt;&#xA;&lt;li&gt;Other germline mutation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Not necessary to perform SEE-FIM protocol:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lynch syndrome&lt;/li&gt;&#xA;&lt;li&gt;History of breast cancer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;There is concern for ectopic pregnancy&lt;/li&gt;&#xA;&lt;li&gt;The patient desires permanent contraception&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;risk-reduction&#34;&gt;Risk Reduction&lt;/h2&gt;&#xA;&lt;p&gt;Risk reducing salpingo-oophorectomy (RRSO)/prophylactic salpingo-oophorectomy (SEE-FIM Protocol) (usually for BRCA, or other high risk ovarian/breast cancer germline mutation)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ovarian Mass</title>
+      <link>http://localhost:1313/grossing/gyn2/ovary_fallopian/ovarian_mass/</link>
+      <pubDate>Sat, 28 Dec 2024 12:32:44 -0700</pubDate>
+      <guid>http://localhost:1313/grossing/gyn2/ovary_fallopian/ovarian_mass/</guid>
+      <description>&lt;h3 id=&#34;gross-description&#34;&gt;Gross Description&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Measure the size and weigh the specimen. Identify the fallopian tube&lt;/li&gt;&#xA;&lt;li&gt;Examine if the surface is intact, has adhesions, are there any irregularities or protuberances?  Surface lesions must be grossly and microscopically documented.&lt;/li&gt;&#xA;&lt;li&gt;Open the specimen in a sink to avoid splashing. Note the color and consistency of the contents: watery, bloody, mucoid, fatty, hair etc.  If cystic, is it unilocular or multilocular?&lt;/li&gt;&#xA;&lt;li&gt;Examine the inner surface. If there are any excrescences or thickened areas of the wall these should be frozen and further sampled for permanents.&lt;/li&gt;&#xA;&lt;li&gt;Note in gross description if fimbriated vs non-fimbriated fallopian tube.&lt;/li&gt;&#xA;&lt;li&gt;If any of the above is not apparent because the specimen was opened by someone else for intraoperative diagnosis, ask that person.&lt;/li&gt;&#xA;&lt;li&gt;Take gross photos, including a cross section of tumor&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;sections-for-histology&#34;&gt;Sections for Histology:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;One section per centimeter of tumor (except mucinous, which needs 2 sections per centimeter). Focus on solid, papillary and cystic areas. State which cassettes contain tumor in relation to ovarian surface.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;callout callout-caution d-flex flex-row mt-4 mb-4 pt-4 pe-4 pb-2 ps-3&#34;&gt;&#xD;&#xA;  &lt;svg&#xA;  xmlns=&#34;http://www.w3.org/2000/svg&#34;&#xA;  width=&#34;24&#34;&#xA;  height=&#34;24&#34;&#xA;  viewBox=&#34;0 0 24 24&#34;&#xA;  fill=&#34;none&#34;&#xA;  stroke=&#34;currentColor&#34;&#xA;  stroke-width=&#34;2&#34;&#xA;  stroke-linecap=&#34;round&#34;&#xA;  stroke-linejoin=&#34;round&#34;&#xA; &#xA; class=&#34;outline/alert-triangle svg-inline callout-icon me-2 mb-3&#34; id=&#34;svg-alert-triangle&#34; role=&#34;img&#34;&gt;&#xA;  &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&#xA;  &lt;path d=&#34;M12 9v4&#34; /&gt;&#xA;  &lt;path d=&#34;M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0z&#34; /&gt;&#xA;  &lt;path d=&#34;M12 16h.01&#34; /&gt;&#xA;&lt;/svg&gt;&#xD;&#xA;  &lt;div class=&#34;callout-content&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;callout-title&#34;&gt;&#xD;&#xA;        &lt;p&gt;Caution&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
